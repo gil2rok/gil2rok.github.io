@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey :wave:! I'm currently a senior at [Columbia University](https://www.columbia.edu/) majoring in Applied Mathematics. I am broadly interested in machine learning and Bayesian inference (variational inference and MCMC).
+Hey :wave:! I'm currently a senior at [Columbia University](https://www.columbia.edu/) majoring in Applied Mathematics. I am broadly interested in machine learning (LLM, few-shot learning) and Bayesian inference (variational inference and MCMC).
 
-I do research under [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing cell-lineages with Riemmanian optimization. I also do research under [Prof David Knowles](https://davidaknowles.github.io/) on fine-mapping with variational inference.
+I do research under [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing CRISPR-edited cell-lineages with learned hyperbolic embeddings. I also do research under [Prof David Knowles](https://davidaknowles.github.io/) on using variational inference for fine-mapping (predicting which genotypes cause a phenotype).
