@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gil2rok.github.io/al-folio/sitemap.xml
+Sitemap: https://gil2rok.github.io/sitemap.xml
