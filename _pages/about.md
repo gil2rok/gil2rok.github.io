@@ -2,22 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aspiring Mad Scientist
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Columbia University</p>
-    <p>NYC, New York </p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey :wave:! I'm currently a senior at [Columbia University](https://www.columbia.edu/) majoring in Applied Mathematics. I am broadly interested in machine learning (interpretability +  robustness, few-shot learning) and Bayesian inference (variational inference and MCMC).
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I do research under [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing evolutionary trees of CRISPR-edited cells by learning hyperbolic embeddings. I also do research under [Prof David Knowles](https://davidaknowles.github.io/) on using variational inference for fine-mapping (predicting which genotypes cause a phenotype) with functional annotations.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
