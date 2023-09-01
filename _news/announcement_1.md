@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This summer I will be interning at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) in the Center for Computational Mathematics. I will be working for [Chirag Modi](https://modichirag.github.io/) on Hamiltonian Monte Carlo.
+This summer I will be interning at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) in the Center for Computational Mathematics. I will be working for [Chirag Modi](https://modichirag.github.io/) and [Bob Carpenter](https://bob-carpenter.github.io/) on Hamiltonian Monte Carlo.
