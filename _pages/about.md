@@ -2,27 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aspiring Mad Scientist
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    NYC, US
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Hey :wave:! I'm currently a **Guest Researcher** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I am broadly interested in **machine learning** (interpretability + robustness, few-shot learning) and **Bayesian statistics** (variational inference and Markov chain Monte Carlo).
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I am a big believer in hard work, living an intentional life, and self-learning.
-
-I just graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**. (I was two courses away from the CS major but took too many cool courses instead of fulfilling major requirements.)
-
-At Columbia I did research under [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing evolutionary trees of CRISPR-edited cells by learning hyperbolic embeddings. I also did research under [Prof David Knowles](https://davidaknowles.github.io/) determing which genetic variants cause phenotypic traits (the fine mapping problem) by merging  variational inference with gradient-based optimization.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
