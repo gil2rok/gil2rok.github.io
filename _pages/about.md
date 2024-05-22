@@ -21,4 +21,6 @@ Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](htt
 
 I am broadly interested in **deep learning** (interpretability, robustness, uncertainty quantification) and **Bayesian statistics** (variational inference and Markov chain Monte Carlo).
 
-I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I took mostly machine learning coursework. At Columbia I did research with [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing evolutionary trees of (CRISPR-edited) cells by learning hyperbolic embeddings. I also did research with [Prof David Knowles](https://davidaknowles.github.io/) determing which genetic variants cause phenotypic traits by merging  variational inference with gradient-based optimization.
+I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I took mostly machine learning coursework.
+
+At Columbia I did research with [Prof Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) reconstructing evolutionary trees of (CRISPR-edited) cells by learning hyperbolic embeddings. I also did research with [Prof David Knowles](https://davidaknowles.github.io/) determing which genetic variants cause phenotypic traits by merging  variational inference with gradient-based optimization.
