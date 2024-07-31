@@ -21,7 +21,7 @@ Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](htt
 
 My research is focused on (generative, efficient, robust) **deep learning** and **Bayesian statistics** (variational inference + Markov chain Monte Carlo).
 
-I like to hack on LLMs, open too many ArXiv tabs, and write open source code. I also like to train calisthenics frequently and salsa dance rarely.
+I like to hack on LLMs, open too many ArXiv tabs, and write open source code. I also train calisthenics and explore NYC.
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I mostly studied machine learning.
 
