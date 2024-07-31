@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending [ISBA 2024](https://www.unive.it/web/en/2208/home) in Venice, Italy and presented a poster.
+Attending [ISBA 2024](https://www.unive.it/web/en/2208/home) in Venice, Italy and presenting a poster.
