@@ -23,6 +23,6 @@ I am interested in (generative, efficient, and robust) **deep learning** as well
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I mostly studied machine learning.
 
-At Columbia I did research under [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) on reconstructing evolutionary trees of CRISPR-edited cells with hyperbolic optimization and under [David Knowles](https://davidaknowles.github.io/) on determining which genetic variants cause phenotypic traits with variational inference.
+At Columbia I did research under [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) on reconstructing evolutionary trees of CRISPR-edited cells with hyperbolic optimization. I also did research under [David Knowles](https://davidaknowles.github.io/) on determining which genetic variants cause phenotypic traits with variational inference.
 
 I love when people reach out so don't hesitate to email/DM me about open source code, ML, research, fitness, etc.
