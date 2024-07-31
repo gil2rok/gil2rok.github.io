@@ -21,7 +21,7 @@ Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](htt
 
 I am interested in (generative, efficient, and robust) **deep learning** as well as **Bayesian statistics** (variational inference + Markov chain Monte Carlo).
 
-I love when people reach out so don't hesitate to email/DM me about open source code, ML, research, fitness, etc.
+I like to hack on LLMs (honorable mention @ Cohere hackathon), open too many ArXiv tabs (once crashed my computer!), read textbooks (just finished The Pragmatic Programmer), and write open source code (first [commit](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Agil2rok) to HuggingFace's transformers). I also like to train calisthenics frequently (working on handstand pushups) and salsa dance rarely.
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I mostly studied machine learning.
 
