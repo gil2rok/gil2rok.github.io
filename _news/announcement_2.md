@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [ISBA 2024](https://www.unive.it/web/en/2208/home) in Venice, Italy. Presented poster on DR-G-HMC sampling algorithm.
+Attended [ISBA 2024](https://www.unive.it/web/en/2208/home) in Venice, Italy and presented a poster.
