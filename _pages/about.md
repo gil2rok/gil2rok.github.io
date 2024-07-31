@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics working with [Bob Carpenter](https://bob-carpenter.github.io/).
 
-I am interested in (generative, efficient, and robust) **deep learning** as well as **Bayesian statistics** (variational inference and Markov chain Monte Carlo).
+I am interested in (generative, efficient, and robust) **deep learning** as well as **Bayesian statistics** (variational inference + Markov chain Monte Carlo).
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I mostly studied machine learning.
 
