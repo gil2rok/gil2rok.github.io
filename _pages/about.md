@@ -21,6 +21,6 @@ Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](htt
 
 My research is focused on probablistic machine learning, generative models, and efficient/robust deep learning.
 
-I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though lowkey I mostly studied machine learning.
+I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though I (lowkey) mostly studied machine learning.
 
 I love when people reach out -- so please do!
