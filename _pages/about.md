@@ -23,6 +23,6 @@ My research is focused on probablistic machine learning, (deep) generative model
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
 
-I'm interested in broad array of topics outside of research: philosophy, fitness, evolutionary psychology, comedy, among others.
+I'm interested in broad array of topics outside of research: philosophy, fitness, evolutionary psychology, comedy, open source software among others.
 
 I love when people reach out -- so please do!
