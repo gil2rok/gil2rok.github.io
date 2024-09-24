@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics working with [Bob Carpenter](https://bob-carpenter.github.io/).
 
-My research interests include
+My research interests broadly include
   - probablistic machine learning: generative models, diffusion
   - computational statistics: inference, sampling
   - LLMs: scaling laws
