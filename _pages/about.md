@@ -19,8 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics working with [Bob Carpenter](https://bob-carpenter.github.io/).
 
-My research is focused on probablistic machine learning, generative models, and efficient/robust deep learning.
+My research is focused on probablistic machine learning, (deep) generative models, computational statistics, and efficient/robust deep learning.
 
-I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**, though I (lowkey) mostly studied machine learning.
+I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
+
+I'm interested in broad array of topics outside of research: philosophy, fitness, evolutionary psychology, comedy, among others.
 
 I love when people reach out -- so please do!
