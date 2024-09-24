@@ -21,7 +21,7 @@ Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](htt
 
 My research interests broadly include:
   - probablistic machine learning (generative models, diffusion)
-  - computational statistics (inference, sampling)
+  - computational statistics (Bayesian inference, MCMC sampling)
   - LLMs (scaling laws)
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
