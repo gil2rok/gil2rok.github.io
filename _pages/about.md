@@ -26,6 +26,6 @@ My research interests broadly include:
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
 
-I'm also interested in many topics outside of research: philosophy, fitness, evolutionary psychology, comedy, open source software etc.
+I'm also interested in many topics outside of research: philosophy, fitness, evolutionary psychology, comedy, open source software, etc.
 
 I love when people reach out -- so please do!
