@@ -17,15 +17,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey :wave:! I'm currently a **Research Analyst** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics working with [Bob Carpenter](https://bob-carpenter.github.io/).
+Hey :wave:! I'm a **Research Analyst** at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s Center for Computational Mathematics working with [Bob Carpenter](https://bob-carpenter.github.io/).
 
 My research interests broadly include:
-  - probablistic machine learning (generative models, diffusion)
-  - computational statistics (Bayesian inference, MCMC sampling)
+  - probablistic machine learning (generative models, variational inference)
+  - computational statistics (Bayesian inference, sampling, Monte Carlo)
   - LLMs (scaling laws)
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
 
-I'm also interested in many topics outside of research: philosophy, fitness, evolutionary psychology, comedy, open source software, etc.
+I'm interested in many topics outside of research: philosophy, fitness, evolutionary psychology, comedy, open source software, etc.
 
 I love when people reach out -- so please do!
