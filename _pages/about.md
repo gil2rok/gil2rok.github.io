@@ -23,6 +23,7 @@ My research interests broadly include:
   - probablistic machine learning (generative models, variational inference)
   - computational statistics (Bayesian inference, sampling, Monte Carlo)
   - LLMs (scaling laws)
+  - Physics??? (see [Nobel prize](https://www.nobelprize.org/prizes/physics/2024/press-release/))
 
 I graduated from [Columbia University](https://www.columbia.edu/) with a **B.A. in Applied Mathematics**.
 
